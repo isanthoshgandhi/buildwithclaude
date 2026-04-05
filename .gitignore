@@ -12,5 +12,3 @@ yarn.lock
 scripts/mcp-importers/.env
 .mcp.json
 docs
-!docs/context
-!docs/context/**
